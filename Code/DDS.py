@@ -301,7 +301,7 @@ class PageTwo(tk.Frame):
             s.starttls()
             s.ehlo()
             
-            s.login("sih.codewarriors@gmail.com","sih2020cw")
+            s.login("sih.codewarriors@gmail.com","put password here")
             s.ehlo()
             
            
